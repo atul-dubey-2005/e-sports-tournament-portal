@@ -1,0 +1,16 @@
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\ScheduleMatchServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\db\DBConnection.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\AdminLoginServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\model\Squad.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\dao\MatchDAO.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\LeaderboardServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\dao\SquadDAO.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\model\Player.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\MatchesServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\RegisterServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\AdminLogoutServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\dao\AdminDAO.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\UpdateResultServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\util\PasswordUtil.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\servlet\AdminDashboardServlet.java
+C:\Users\hp\Desktop\Java4\tournament-portal\src\main\java\com\tournament\model\Match.java

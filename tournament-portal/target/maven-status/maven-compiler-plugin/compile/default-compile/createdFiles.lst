@@ -1,0 +1,16 @@
+com\tournament\dao\AdminDAO.class
+com\tournament\model\Player.class
+com\tournament\servlet\UpdateResultServlet.class
+com\tournament\servlet\AdminDashboardServlet.class
+com\tournament\servlet\MatchesServlet.class
+com\tournament\util\PasswordUtil.class
+com\tournament\model\Squad.class
+com\tournament\servlet\LeaderboardServlet.class
+com\tournament\dao\SquadDAO.class
+com\tournament\servlet\AdminLogoutServlet.class
+com\tournament\servlet\RegisterServlet.class
+com\tournament\dao\MatchDAO.class
+com\tournament\servlet\AdminLoginServlet.class
+com\tournament\servlet\ScheduleMatchServlet.class
+com\tournament\model\Match.class
+com\tournament\db\DBConnection.class

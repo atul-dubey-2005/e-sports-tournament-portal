@@ -1,0 +1,15 @@
+<%@ page contentType="text/html;charset=UTF-8" %>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Rajdhani:wght@600;700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="${pageContext.request.contextPath}/css/style.css">
+<header>
+    <h1><span>ARENA</span> Tournament Portal</h1>
+    <nav>
+        <a href="${pageContext.request.contextPath}/index.jsp">Home</a>
+        <a href="${pageContext.request.contextPath}/leaderboard">Leaderboard</a>
+        <a href="${pageContext.request.contextPath}/matches">Matches</a>
+        <a href="${pageContext.request.contextPath}/register">Register Squad</a>
+        <a href="${pageContext.request.contextPath}/admin/login">Admin</a>
+    </nav>
+</header>
